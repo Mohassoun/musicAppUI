@@ -1,0 +1,13 @@
+const String swipeDown = "Swipe down to Search";
+const String goodEvening = "Good evening";
+const String discover = "Discover";
+const String favouriteArtists = "Favourite artists";
+const String najwa = "najwa karam";
+const String Gordon_Lightfoot = "Gordon_Lightfoot";
+const String JeanJacquesGoldmanSirima = "Jean-Jacques Goldman, Sirima";
+const String Stromae = "Stromae ";
+const String miley = "miley cyrus";
+const String recentlyPlayed = "Recently Played";
+const String Sundown = "Sundown";
+const String Haramy = "Haramy";
+const String Labas = " Là-bas";
